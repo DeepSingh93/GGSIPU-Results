@@ -2,7 +2,7 @@
 MyCampusNotes B.Tech end term results analyzer for GGSIPU University
 
 # Progress
-### Current Phase : Requirement Gathering Phase
+### Current Phase : Design Phase
 
 # Updates
 August 7, 2018
